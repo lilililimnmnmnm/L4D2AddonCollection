@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	addonSteamAppID		"550"
+	addontitle		"GAL!!!"
+	addonversion		"1"
+	addonauthor		"1reide"
+	addonauthorSteamID	""
+	addonURL0		""
+	addonDescription		"꾸짖을 갈(喝)!!!"
+}

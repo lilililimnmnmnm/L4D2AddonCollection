@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	addonSteamAppID		"550"
+	addontitle		"BotAngel"
+	addonversion		"1"
+	addonauthor		"1reide"
+	addonauthorSteamID	""
+	addonURL0		""
+	addonDescription		"Take care of the `BOTS`"
+}

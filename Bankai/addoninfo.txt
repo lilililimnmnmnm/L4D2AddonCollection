@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"addonSteamAppID"	"550"
+	"addonTitle"		"Bankai"
+	"addonVersion"		"1"
+	"addonAuthor"		"1reide"
+	"addonAuthorSteamID"	""
+	"addonURL0"		""
+	"addonDescription"		"Activate BANKAI by typing `만해!` `bankai!` `BANKAI!` in the chat!!"
+}

@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"addonSteamAppID"	"550"
+	"addonTitle"		"DefenseAngel"
+	"addonVersion"		"1"
+	"addonAuthor"		"1reide"
+	"addonAuthorSteamID"	""
+	"addonURL0"		""
+	"addonDescription"		"DefenseAngel"
+}

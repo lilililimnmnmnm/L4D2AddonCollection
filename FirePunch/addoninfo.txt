@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"addonSteamAppID"	"550"
+	"addonTitle"		"Fire Punch!!!"
+	"addonVersion"		"1"
+	"addonAuthor"		"1reide"
+	"addonAuthorSteamID"	""
+	"addonURL0"		""
+	"addonDescription"		"Fire Punch!!!"
+}
